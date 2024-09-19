@@ -1,6 +1,7 @@
 {
     "name": "amirmehr-ir/mehr-utils",
     "description": "A laravel utils package",
+    "version": "1.0.0",
     "keywords": [
         "amirmehr-ir",
         "mehr-utils"
@@ -34,7 +35,7 @@
     },
     "scripts": {
         "test": "vendor/bin/pest",
-            "test-coverage": "vendor/bin/pest --coverage",
+        "test-coverage": "vendor/bin/pest --coverage",
         "format": "vendor/bin/pint"
     },
     "config": {
