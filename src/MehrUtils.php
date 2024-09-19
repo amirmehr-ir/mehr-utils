@@ -2,4 +2,4 @@
 
 namespace AmirMehr\MehrUtils;
 
-class MehrUtilsClass {}
+class MehrUtils {}

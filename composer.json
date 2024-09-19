@@ -1,9 +1,9 @@
 {
-    "name": "amirmehr-ir/mehrutils",
-    "description": "a laravel auth, sms, .. package",
+    "name": "amirmehr-ir/mehr-utils",
+    "description": "A laravel utils package",
     "keywords": [
         "amirmehr-ir",
-        "mehrutils"
+        "mehr-utils"
     ],
     "homepage": "https://github.com/amirmehr-ir/mehrutils",
     "license": "MIT",
